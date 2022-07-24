@@ -24,7 +24,7 @@ import pickle
 
 def load_data(database_filepath):
     """
-    Loads data from SQL Database and transforms it for model training
+    Loads data from SQL Database and transforms it for model  training
     
     :param database_filepath: SQL database file (string)
     
